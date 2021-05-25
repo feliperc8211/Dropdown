@@ -26,7 +26,7 @@ class Dropdown extends React.Component {
       <div className="App">
         <Lista
           id={"ddl1"}
-          name={"ddllocation"}
+          name={"ddloption"}
           options={options}
           title={"Opciones"}
           handleChange={this.handleChange}
